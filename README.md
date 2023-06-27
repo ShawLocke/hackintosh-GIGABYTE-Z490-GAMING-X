@@ -1,0 +1,1 @@
+# hackintosh-GIGABYTE-Z490-GAMING-X
