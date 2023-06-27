@@ -1,8 +1,10 @@
 # Win 10 Hackintosh 安装
 
-自己根据官网制作 EFI，使用 ACPI 方式定制 USB，接近完美的 hackintosh。
+之前自己使用 ACPI 方式定制 USB，根据 hackintosh 官网制作 EFI，最后形成一个接近完美的 hackintosh EFI。
 
 主机已经出了，无法再更新了。记录留念。
+
+根据这个readme，你应该能学会自己制作EFI，定制USB（需要一点耐心）。这样你以后就可以不用等着别人的EFI更新了。授人鱼不如授人以渔。
 
 ## Windows 10专业版
 
